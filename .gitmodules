@@ -1,0 +1,15 @@
+[submodule "litex"]
+	path = litex
+	url = https://github.com/enjoy-digital/litex.git
+[submodule "litex-boards"]
+	path = litex-boards
+	url = https://github.com/antmicro/litex-boards.git
+[submodule "litepcie"]
+	path = litepcie
+	url = https://github.com/antmicro/litepcie.git
+[submodule "litedram"]
+	path = litedram
+	url = https://github.com/enjoy-digital/litedram.git
+[submodule "migen"]
+	path = migen
+	url = https://github.com/m-labs/migen.git
